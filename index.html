@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kali Linux | Cyber Security</title>
+    <link rel="icon" href="assets/image/logo_kali.png" type="image/png">
+
+    <link rel="stylesheet" href="assets/styles/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+  </head>
+
+  <body>
+    <header>
+      <div class="jumbotron">
+        <h1>Kali Linux</h1>
+        <p>
+          Distribusi Linux berbasis Debian yang dikembangkan untuk keamanan dan pengujian penetrasi.
+        </p>
+      </div>
+      
+      <nav>
+        <ul>
+          <li>
+            <a href="#sejarah">Sejarah</a>
+          </li>
+          <li>
+            <a href="#fitur">Fitur</a>
+          </li>
+          <li>
+            <a href="#penggunaan">Penggunaan</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    
+    <main>
+      <div id="content">
+        <article id="sejarah" class="card">
+          <h2>Sejarah</h2>
+          <img src="assets/image/kali_linux.jpg" alt="Sejarah" class="featured-image"/>
+          <p>
+            Kali Linux dikembangkan oleh Offensive Security sebagai penerus dari BackTrack Linux. Kali pertama kali dirilis pada tahun 2013 dan dirancang khusus untuk pengujian penetrasi dan forensik digital.
+          </p>
+          <p>
+            Kali Linux memiliki lebih dari 600 alat keamanan yang telah dikurasi dan diperbarui secara berkala. Sistem ini berbasis Debian dan mendukung berbagai arsitektur perangkat keras.
+          </p>
+        </article>
+
+        <article id="fitur" class="card">
+          <h2>Fitur</h2>
+          <img src="assets/image/kali_menu.png" alt="Fitur" class="featured-image"/>
+          <p>
+            Kali Linux menyediakan berbagai alat untuk pengujian keamanan, termasuk pemindaian jaringan, eksploitasi kerentanan, analisis forensik, dan pengujian aplikasi web.
+          </p>
+          <p>
+            Selain itu, Kali mendukung berbagai mode operasi, seperti Live USB, dual-boot, dan virtualisasi untuk kenyamanan pengguna dalam melakukan pengujian keamanan tanpa mengubah sistem utama.
+          </p>
+        </article>
+
+        <article id="penggunaan" class="card">
+          <h2>Penggunaan</h2>
+          <p>
+            Kali Linux digunakan oleh profesional keamanan siber, peneliti keamanan, dan etikal hacker untuk mengidentifikasi dan memperbaiki celah keamanan dalam sistem komputer.
+          </p>
+
+          <section>
+            <h3>Pengujian Penetrasi</h3>
+            <img src="assets/image/metasploit.jpg" alt="Pengujian" class="featured-image"/>
+            <p>
+              Kali Linux dilengkapi dengan alat seperti Metasploit, Nmap, dan Wireshark yang digunakan untuk menguji kerentanan dalam sistem komputer dan jaringan.
+            </p>
+          </section>
+
+          <section>
+            <h3>Forensik Digital</h3>
+            <img src="assets/image/autopsy.jpg" alt="Forensik" class="featured-image"/>
+            <p>
+              Kali Linux juga memiliki alat seperti Autopsy dan Foremost yang berguna dalam investigasi keamanan dan pemulihan data dari perangkat yang terhapus atau rusak.
+            </p>
+          </section>
+        </article>
+      </div>
+      
+      <aside>
+        <article class="profile card">
+          <header>
+            <h2>Kali Linux</h2>
+            <p>Sistem Operasi untuk Keamanan Siber</p>
+            <figure>
+              <img src="assets/image/logo_kali.png">
+              <figcaption>Logo Kali Linux</figcaption>
+            </figure>
+          <header>
+
+          <section>
+            <h3>Informasi Lainnya</h3>
+
+            <table>
+              <tr>
+                <th>Pengembang</th>
+                <td>Offensive Security</td>
+              </tr>
+              <tr>
+                <th>Tanggal Rilis</th>
+                <td>13 Maret 2013</td>
+              </tr>
+              <tr>
+                <th>Basis</th>
+                <td>Debian</td>
+              </tr>
+              <tr>
+                <th>Jenis</th>
+                <td>Keamanan Siber</td>
+              </tr>
+              <tr>
+                <th>Arsitektur</th>
+                <td>x86, x64, ARM</td>
+              </tr>
+              <tr class="hidden-info">
+                <th>Antarmuka</th>
+                <td>CLI & GUI (GNOME, KDE, Xfce)</td>
+              </tr>
+              <tr class="hidden-info">
+                <th>Lisensi</th>
+                <td>GPLv3</td>
+              </tr>
+            </table>
+            <button id="toggleInfo">Tampilkan Informasi Selengkapnya</button>
+          </section>
+        </article>
+      </aside>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 Sultan Badra | Cyber Security</p>
+    </footer>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        let isInfoVisible = false;
+        document.querySelectorAll(".hidden-info").forEach(row => row.style.display = "none");
+
+        document.getElementById("toggleInfo").addEventListener("click", function () {
+          document.querySelectorAll(".hidden-info").forEach(row => {
+            row.style.display = isInfoVisible ? "none" : "table-row";
+          });
+          this.textContent = isInfoVisible ? "Tampilkan Informasi Selengkapnya" : "Sembunyikan Informasi";
+          isInfoVisible = !isInfoVisible;
+        });
+      });
+    </script>
+
+  </body>
+</html>
