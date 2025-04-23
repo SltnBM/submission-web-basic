@@ -1,6 +1,6 @@
 # Kali Linux Blog Landing Page
 
-This is a **Kali Linux Blog Landing Page** project built using **HTML and CSS**.
+This is a **Kali Linux Blog Landing Page** project built using **HTML, CSS, and JavaScript**.
 
 ## 📸 Preview
 
@@ -10,5 +10,5 @@ This is a **Kali Linux Blog Landing Page** project built using **HTML and CSS**.
 
 ## 📌 Notes
 
-> This project only includes the landing page.
-> It is purely created with **HTML and CSS** for practice or submission purposes.
+> This project contains **only the landing page**.  
+> It is built purely with **HTML, CSS, and JavaScript** for practice or submission purposes.
