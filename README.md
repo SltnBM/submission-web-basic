@@ -1,4 +1,4 @@
-# Kali Linux Blog Landing Page
+# 🐉 Kali Linux Blog Landing Page - Dicoding Submission
 This repository contains a submission project for "Belajar Dasar Pemrograman Web" provided by Dicoding.  
 It’s a simple static landing page for a blog about Kali Linux, built using HTML, CSS, and JavaScript.
 
