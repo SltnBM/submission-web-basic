@@ -1,5 +1,4 @@
 # Kali Linux Blog Landing Page
-
 This repository contains a submission project for "Belajar Dasar Pemrograman Web" provided by Dicoding.  
 It’s a simple static landing page for a blog about Kali Linux, built using HTML, CSS, and JavaScript.
 
@@ -28,10 +27,13 @@ cd kali-linux-blog-landing-page
 
 ## 📸 Preview
 ![Landing Page](assets/image/preview.png)
-
 > The image above shows the appearance of the Kali Linux Blog landing page.
 
-## 📌 Notes
+## 📜 Certificate
+Successfully completed with a ⭐ 5/5 stars rating on Dicoding.
 
-> This project contains **only the landing page**.  
-> It is built purely with **HTML, CSS, and JavaScript** for practice or submission purposes.
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
+
+# 📄 License
+This project is part of a submission for Dicoding’s "Belajar Dasar Pemrograman Web" course.
