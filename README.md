@@ -31,6 +31,8 @@ cd kali-linux-blog-landing-page
 ## 📸 Preview
 ![Landing Page](assets/image/preview.png)
 > The image above shows the appearance of the Kali Linux Blog landing page.
+> This project contains **only the landing page**.  
+> It is built purely with **HTML, CSS, and JavaScript** for practice or submission purposes.
 
 ## 📜 Certificate
 Successfully completed with a ⭐ 5/5 stars rating on Dicoding.
