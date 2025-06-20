@@ -2,6 +2,9 @@
 This repository contains a submission project for "Belajar Dasar Pemrograman Web" provided by Dicoding.  
 It’s a simple static landing page for a blog about Kali Linux, built using HTML, CSS, and JavaScript.
 
+![Dicoding](https://img.shields.io/badge/Dicoding-Completed-blue?logo=dicoding&style=flat-square)
+![Rating](https://img.shields.io/badge/Rating-5/5★-brightgreen?style=flat-square)
+
 ## ✨ Features
 - Landing page with clean layout and modern design
 - Hero section with call-to-action button
