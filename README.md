@@ -20,11 +20,11 @@ It’s a simple static landing page for a blog about Kali Linux, built using HTM
 ## 🚀 How to Use
 1. Clone this repository or download the ZIP file
 ```bash
-git clone https://github.com/SltnBM/web-basic-submission.git
+git clone https://github.com/SltnBM/submission-web-basic.git
 ```
 2. Navigate to the project directory
 ```bash
-cd kali-linux-blog-landing-page
+cd submission-web-basic
 ```
 3. Open the `index.html` file in your preferred browser
 
