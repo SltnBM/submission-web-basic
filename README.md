@@ -26,7 +26,7 @@ git clone https://github.com/SltnBM/web-basic-submission.git
 ```bash
 cd kali-linux-blog-landing-page
 ```
-3. Open the index.html file in your preferred browser
+3. Open the `index.html` file in your preferred browser
 
 ## 📸 Preview
 ![Landing Page](assets/image/preview.png)
