@@ -3,7 +3,6 @@ This repository contains a submission project for "Belajar Dasar Pemrograman Web
 It’s a simple static landing page for a blog about Kali Linux, built using HTML, CSS, and JavaScript.
 
 ![Dicoding](https://img.shields.io/badge/Dicoding-Completed-blue?logo=dicoding&style=flat-square)
-![Rating](https://img.shields.io/badge/Rating-5/5★-brightgreen?style=flat-square)
 
 ## ✨ Features
 - Landing page with clean layout and modern design
@@ -35,7 +34,8 @@ cd submission-web-basic
 > It is built purely with **HTML, CSS, and JavaScript** for practice or submission purposes.
 
 ## 📜 Certificate
-Successfully completed with a ⭐ 5/5 stars rating on Dicoding.
+Successfully completed the "Belajar Dasar Pemrograman Web" course on Dicoding.
+
 🎖️ [View Certificate](https://www.dicoding.com/certificates/JMZVEL04RPN9)
 
 ## 🤝 Connect with Me
