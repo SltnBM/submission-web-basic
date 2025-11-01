@@ -42,4 +42,5 @@ Successfully completed the "Belajar Dasar Pemrograman Web" course on Dicoding.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
 
 ## 📄 License
-This project is part of a submission for Dicoding’s "Belajar Dasar Pemrograman Web" course.
+This project is part of a submission for Dicoding’s "Belajar Dasar Pemrograman Web" course and is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
